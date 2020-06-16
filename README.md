@@ -1,1 +1,0 @@
-# footballDataAnalyst.github.io
